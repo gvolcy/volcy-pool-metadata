@@ -18,9 +18,9 @@
       "vat_id": ""
     },
     "about": {
-      "me": "Gregory - VOLCY Pool operator & ITN Veteran since 2019. Participating in Cardano since the historic Incentivized Testnet (December 2019 - August 2020), demonstrating unwavering commitment to the ecosystem. Professional SPO operating enterprise-grade multi-chain infrastructure across 10+ blockchain networks including Cardano Mainnet/Testnet (279+ blocks), Midnight Validator, Mithril Signer, NuNet Computing, Xerberus Risk Management, Iagon Decentralized Cloud, and Aquarium FluidTokens. Building the Lions & Lionesses community with technical excellence and proven experience since ITN.",
+      "me": "Gregory - VOLCY Pool operator & ITN Veteran since 2019. Participating in Cardano since the historic Incentivized Testnet (December 2019 - August 2020), demonstrating unwavering commitment to the ecosystem. Professional SPO operating enterprise-grade multi-chain infrastructure across 10+ blockchain networks including Cardano Mainnet/Testnet (279+ blocks), ApexFusion Multi-Chain, Blockfrost IceBreakers, Âtrium Staking Baskets, Midnight Validator, Mithril Signer, NuNet Computing, Xerberus Risk Management, Iagon Decentralized Cloud, and Aquarium FluidTokens. Building the Lions & Lionesses community with technical excellence and proven experience since ITN.",
       "server": "Enterprise-grade infrastructure with redundant multi-chain node deployment. 24/7 monitoring, automated failover, geographic distribution across data centers. Professional DevOps with Docker containerization, PostgreSQL, cardano-db-sync, real-time metrics, and proactive maintenance for optimal uptime across all blockchain networks. Advanced validator operations with sophisticated blockchain infrastructure management.",
-      "company": "Leading multi-chain infrastructure provider focused on Cardano ecosystem expansion. Specialized in emerging protocols including privacy networks (Midnight Validator), decentralized computing (NuNet), risk management (Xerberus), decentralized cloud storage (Iagon), and fluid tokens (Aquarium Node). Member of [ALLI]ALLIANCE, [CNC]CLIMATE NEUTRAL CARDANO, [MDP]Cardano Mission Driven. Committed to decentralization and blockchain innovation with proven ITN veteran status."
+      "company": "Leading multi-chain infrastructure provider focused on Cardano ecosystem expansion. Specialized in emerging protocols including multi-chain bridges (ApexFusion), API infrastructure (Blockfrost IceBreakers), innovative staking (Âtrium Baskets), privacy networks (Midnight Validator), decentralized computing (NuNet), risk management (Xerberus), decentralized cloud storage (Iagon), and fluid tokens (Aquarium Node). Member of [ALLI]ALLIANCE, [CNC]CLIMATE NEUTRAL CARDANO, [MDP]Cardano Mission Driven. Committed to decentralization and blockchain innovation with proven ITN veteran status."
     },
     "blockchain_networks": {
       "cardano": {
@@ -29,6 +29,12 @@
         "mithril": "Mithril Signer for blockchain snapshots and light client support",
         "itn": "Incentivized Testnet veteran - participated in Cardano's historic testnet program (December 2019 - August 2020)"
       },
+      "apexfusion": {
+        "mainnet": "ApexFusion multi-chain system launched February 17, 2025 - uniting Ethereum and Cardano blockchains with seamless cross-chain interactions, asset transfers, and enhanced scalability. Combining Ethereum's programmability with Cardano's security model.",
+        "testnet": "ApexFusion testnet participation supporting development of cross-chain interoperability between Ethereum and Cardano ecosystems"
+      },
+      "icebreaker": "Blockfrost IceBreakers program - incentivized profit-sharing model helping decentralize Blockfrost API infrastructure for enhanced Cardano developer experience",
+      "atrium": "Âtrium Lab Staking Baskets - innovative multi-pool delegation protocol allowing users to stake to up to 110 pools simultaneously while earning additional native tokens through the Diffusion basket and Âtma DAO governance tokens",
       "midnight": {
         "testnet": "Midnight validator participation with tDUST test tokens - supporting zero-knowledge smart contract development, testing, and block production validation. Advanced validator infrastructure ready for mainnet launch."
       },
@@ -51,7 +57,7 @@
       "monitoring": "24/7 automated monitoring with real-time alerts",
       "security": "Professional DevOps with automated backups and failover",
       "uptime": "99.9%+ enterprise-grade reliability",
-      "networks": "6+ blockchain networks with advanced validator operations"
+      "networks": "10+ blockchain networks with advanced validator operations"
     },
     "achievements": {
       "validated_blocks": "279+ blocks on Cardano mainnet",
