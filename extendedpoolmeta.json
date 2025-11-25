@@ -1,0 +1,75 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://bit.ly/3H6lqGB",
+    "url_png_logo": "https://bit.ly/47sA85r",
+    "location": "Global Multi-Chain Infrastructure",
+    "social": {
+      "twitter_handle": "gvolcy",
+      "telegram_handle": "https://t.me/volcyhttp",
+      "discord_handle": "Greg [VOLCY]ADA Stakepool#1984",
+      "github_handle": "https://github.com/gvolcy"
+    },
+    "company": {
+      "name": "VOLCY - Elite Multi-Chain Infrastructure Provider",
+      "addr": "",
+      "city": "Montreal, QC",
+      "country": "Canada",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "Gregory - VOLCY Pool operator & ITN Veteran since 2019. Participating in Cardano since the historic Incentivized Testnet (December 2019 - August 2020), demonstrating unwavering commitment to the ecosystem. Professional SPO operating enterprise-grade multi-chain infrastructure across 10+ blockchain networks including Cardano Mainnet/Testnet, Midnight Validator (testnet), Mithril Signer, NuNet Computing, Xerberus Risk Management, Blockfrost IceBreakers, ApexFusion Multi-Chain, and Âtrium Staking Baskets. Building the Lions & Lionesses community with technical excellence and proven experience since ITN.",
+      "server": "Enterprise-grade infrastructure with redundant multi-chain node deployment. 24/7 monitoring, automated failover, geographic distribution across data centers. Professional DevOps with Docker containerization, PostgreSQL, cardano-db-sync, real-time metrics, and proactive maintenance for optimal uptime across all blockchain networks. Advanced validator operations with sophisticated blockchain infrastructure management.",
+      "company": "Leading multi-chain infrastructure provider focused on Cardano ecosystem expansion. Specialized in emerging protocols including privacy networks (Midnight Validator - testnet), decentralized computing (NuNet), risk management (Xerberus), API infrastructure (Blockfrost IceBreakers), multi-chain fusion (ApexFusion), and innovative staking solutions (Âtrium Baskets). Member of [ALLI]ALLIANCE, [CNC]CLIMATE NEUTRAL CARDANO, [MDP]Cardano Mission Driven. Committed to decentralization and blockchain innovation with proven ITN veteran status."
+    },
+    "blockchain_networks": {
+      "cardano": {
+        "mainnet": "Primary stake pool operation with 279+ validated blocks since mainnet launch - Pool ID: e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2",
+        "testnet": "Supporting Cardano testnet development and testing on Preview and Preprod networks",
+        "mithril": "Mithril Signer for blockchain snapshots and light client support",
+        "itn": "Incentivized Testnet veteran - participated in Cardano's historic testnet program (December 2019 - August 2020)"
+      },
+      "midnight": {
+        "testnet": "Midnight devnet validator participation with tDUST test tokens - supporting zero-knowledge smart contract development, testing, and block production validation. Advanced validator infrastructure ready for mainnet launch."
+      },
+      "nunet": "Decentralized computing network infrastructure providing distributed AI and computing power",
+      "xerberus": "Risk and Asset Management Blockchain - providing real-time risk ratings, oracle services, and scam recovery tools with on-chain data analysis",
+      "icebreaker": "Blockfrost IceBreakers program - incentivized profit-sharing model helping decentralize Blockfrost API infrastructure for enhanced Cardano developer experience",
+      "apexfusion": {
+        "mainnet": "ApexFusion multi-chain system launched February 17, 2025 - uniting Ethereum and Cardano blockchains with seamless cross-chain interactions, asset transfers, and enhanced scalability. Combining Ethereum's programmability with Cardano's security model.",
+        "testnet": "ApexFusion testnet participation supporting development of cross-chain interoperability between Ethereum and Cardano ecosystems"
+      },
+      "atrium": "Âtrium Lab Staking Baskets - innovative multi-pool delegation protocol allowing users to stake to up to 110 pools simultaneously while earning additional native tokens through the Diffusion basket and Âtma DAO governance tokens"
+    },
+    "itn_credentials": {
+      "participation": "Incentivized Testnet Participant & Veteran",
+      "era": "December 2019 - August 2020",
+      "jormungandr_id": "VOLCY",
+      "experience": "Early Cardano adopter with proven stake pool operation since the historic ITN program",
+      "badge_earned": "ITN Veteran - demonstrating long-term commitment to Cardano ecosystem",
+      "owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
+      "witness": "ed25519_sig1qnw2hmkapaks9vhm8k3g6pmuxnhk9tgnykgazt8k0cacwv9us2qzrugk90f46wcyzu04aduka9gzjgzxzq4qwxs3q6h7pwj2pklkzgqulkpd"
+    },
+    "infrastructure_specs": {
+      "hardware": "Enterprise-grade bare-metal servers with redundant systems",
+      "monitoring": "24/7 automated monitoring with real-time alerts",
+      "security": "Professional DevOps with automated backups and failover",
+      "uptime": "99.9%+ enterprise-grade reliability",
+      "networks": "10+ blockchain networks with advanced validator operations"
+    },
+    "achievements": {
+      "validated_blocks": "279+ blocks on Cardano mainnet",
+      "itn_veteran": "Participated in historic Cardano ITN (2019-2020)",
+      "years_experience": "6+ years in blockchain infrastructure",
+      "multi_chain_pioneer": "Early adopter of emerging blockchain protocols",
+      "community_builder": "Lions & Lionesses community leader"
+    }
+  },
+  "my-pool-ids": {
+    "0": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2"
+  },
+  "itn": {
+    "owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
+    "witness": "ed25519_sig1qnw2hmkapaks9vhm8k3g6pmuxnhk9tgnykgazt8k0cacwv9us2qzrugk90f46wcyzu04aduka9gzjgzxzq4qwxs3q6h7pwj2pklkzgqulkpd"
+  }
+}
