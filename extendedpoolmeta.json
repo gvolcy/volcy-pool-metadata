@@ -18,9 +18,9 @@
       "vat_id": ""
     },
     "about": {
-      "me": "Gregory - VOLCY Pool operator & ITN Veteran since 2019. Participating in Cardano since the historic Incentivized Testnet (December 2019 - August 2020), demonstrating unwavering commitment to the ecosystem. Professional SPO operating enterprise-grade multi-chain infrastructure across 10+ blockchain networks including Cardano Mainnet/Testnet (279+ blocks), ApexFusion Multi-Chain, Blockfrost IceBreakers, Âtrium Staking Baskets, Midnight Validator, Mithril Signer, NuNet Computing, Xerberus Risk Management, Iagon Decentralized Cloud, and Aquarium FluidTokens. Building the Lions & Lionesses community with technical excellence and proven experience since ITN.",
+      "me": "Gregory - VOLCY Pool operator & ITN Veteran since 2019. Participating in Cardano since the historic Incentivized Testnet (December 2019 - August 2020), demonstrating unwavering commitment to the ecosystem. Professional SPO operating enterprise-grade multi-chain infrastructure across 10+ blockchain networks including Cardano Mainnet/Testnet (279+ blocks), ApexFusion Multi-Chain, Blockfrost IceBreakers, \u00c2trium Staking Baskets, Midnight Validator, Mithril Signer, NuNet Computing, Xerberus Risk Management, Iagon Decentralized Cloud, and Aquarium FluidTokens. Building the Lions & Lionesses community with technical excellence and proven experience since ITN.",
       "server": "Enterprise-grade infrastructure with redundant multi-chain node deployment. 24/7 monitoring, automated failover, geographic distribution across data centers. Professional DevOps with Docker containerization, PostgreSQL, cardano-db-sync, real-time metrics, and proactive maintenance for optimal uptime across all blockchain networks. Advanced validator operations with sophisticated blockchain infrastructure management.",
-      "company": "Leading multi-chain infrastructure provider focused on Cardano ecosystem expansion. Specialized in emerging protocols including multi-chain bridges (ApexFusion), API infrastructure (Blockfrost IceBreakers), innovative staking (Âtrium Baskets), privacy networks (Midnight Validator), decentralized computing (NuNet), risk management (Xerberus), decentralized cloud storage (Iagon), and fluid tokens (Aquarium Node). Member of [ALLI]ALLIANCE, [CNC]CLIMATE NEUTRAL CARDANO, [MDP]Cardano Mission Driven. Committed to decentralization and blockchain innovation with proven ITN veteran status."
+      "company": "Leading multi-chain infrastructure provider focused on Cardano ecosystem expansion. Specialized in emerging protocols including multi-chain bridges (ApexFusion), API infrastructure (Blockfrost IceBreakers), innovative staking (\u00c2trium Baskets), privacy networks (Midnight Validator), decentralized computing (NuNet), risk management (Xerberus), decentralized cloud storage (Iagon), and fluid tokens (Aquarium Node). Member of [ALLI]ALLIANCE, [CNC]CLIMATE NEUTRAL CARDANO, [MDP]Cardano Mission Driven. Committed to decentralization and blockchain innovation with proven ITN veteran status."
     },
     "blockchain_networks": {
       "cardano": {
@@ -34,7 +34,7 @@
         "testnet": "ApexFusion testnet participation supporting development of cross-chain interoperability between Ethereum and Cardano ecosystems"
       },
       "icebreaker": "Blockfrost IceBreakers program - incentivized profit-sharing model helping decentralize Blockfrost API infrastructure for enhanced Cardano developer experience",
-      "atrium": "Âtrium Lab Staking Baskets - innovative multi-pool delegation protocol allowing users to stake to up to 110 pools simultaneously while earning additional native tokens through the Diffusion basket and Âtma DAO governance tokens",
+      "atrium": "\u00c2trium Lab Staking Baskets - innovative multi-pool delegation protocol allowing users to stake to up to 110 pools simultaneously while earning additional native tokens through the Diffusion basket and \u00c2tma DAO governance tokens",
       "midnight": {
         "testnet": "Midnight validator participation with tDUST test tokens - supporting zero-knowledge smart contract development, testing, and block production validation. Advanced validator infrastructure ready for mainnet launch."
       },
@@ -73,5 +73,26 @@
   "itn": {
     "owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
     "witness": "ed25519_sig1qnw2hmkapaks9vhm8k3g6pmuxnhk9tgnykgazt8k0cacwv9us2qzrugk90f46wcyzu04aduka9gzjgzxzq4qwxs3q6h7pwj2pklkzgqulkpd"
+  },
+  "serial": 2026022601,
+  "pool": {
+    "id": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2",
+    "country": "CAN",
+    "status": "act",
+    "contact": {
+      "primary": "twitter",
+      "twitter": "gvolcy",
+      "telegram": "volcyhttp",
+      "discord": "Greg [VOLCY]ADA Stakepool#1984",
+      "github": "gvolcy"
+    },
+    "media_assets": {
+      "icon_png_64x64": "https://bit.ly/3H6lqGB",
+      "logo_png": "https://bit.ly/47sA85r"
+    },
+    "itn": {
+      "owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
+      "witness": "ed25519_sig1qnw2hmkapaks9vhm8k3g6pmuxnhk9tgnykgazt8k0cacwv9us2qzrugk90f46wcyzu04aduka9gzjgzxzq4qwxs3q6h7pwj2pklkzgqulkpd"
+    }
   }
 }
