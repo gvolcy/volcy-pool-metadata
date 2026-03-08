@@ -1,0 +1,34 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://developers.apexfusion.org/storage/icons/XgtDuGJiUF3pGomhli5OA07Nwy5Cq9tbFbfNMVjI.png",
+    "url_png_logo": "https://developers.apexfusion.org/storage/logos/TzTgsmeQEQgPw0L9cbbCXEDf6EgcCZKW8trzi6We.png",
+    "location": "Haiti/Canada",
+    "social": {
+      "twitter_handle": "",
+      "telegram_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "Silem Foundation",
+      "addr": "",
+      "city": "",
+      "country": "Haiti/Canada",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "Silem Foundation - Supporting children and communities in Haiti through blockchain technology and Cardano stake pool operation. ITN Veteran since 2019.",
+      "server": "Enterprise-grade infrastructure with redundant node deployment and 24/7 monitoring.",
+      "company": "Silem Foundation - dedicated to empowering Haitian communities through education, technology, and blockchain innovation."
+    }
+  },
+  "my-pool-ids": {
+    "0": "20b2a92b6a3eb8acb2700dedd1478431df471868280132a573856362"
+  },
+  "itn": {
+    "owner": "ed25519_pk14mwnrd3fvuph5qrhnfkxv2xjdjfa0sxlnl4ps2hueh2aggsxwz8qh37hen",
+    "witness": "ed25519_sig1ntj9cnxuwtdp840vy5frm8qzm3v2j2el8j83wn8nfntaq9qm4s5mjmg0azqu0mtn02asjrnuxww95vpapygu0n3ejupz8j0hgncpzqcv96438"
+  },
+  "serial": 2026030801
+}
