@@ -1,0 +1,54 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://bit.ly/3H6lqGB",
+    "url_png_logo": "https://bit.ly/47sA85r",
+    "location": "Global Multi-Chain Infrastructure",
+    "social": {
+      "twitter_handle": "gvolcy",
+      "telegram_handle": "https://t.me/volcyhttp",
+      "discord_handle": "Greg [VOLCY]ADA Stakepool#1984",
+      "github_handle": "https://github.com/gvolcy"
+    },
+    "company": {
+      "name": "VOLCY - Elite Multi-Chain Infrastructure Provider",
+      "addr": "",
+      "city": "Montreal, QC",
+      "country": "Canada",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "Gregory - VOLCY Pool operator & ITN Veteran since 2019. Participating in Cardano since the historic Incentivized Testnet (December 2019 - August 2020), demonstrating unwavering commitment to the ecosystem. Professional SPO operating enterprise-grade multi-chain infrastructure across 10+ blockchain networks including Cardano Mainnet/Testnet, ApexFusion, Midnight Validator, Mithril Signer, NuNet Computing, Xerberus Risk Management, Iagon Decentralized Cloud, and Aquarium FluidTokens. Building the Lions & Lionesses community with technical excellence and proven experience since ITN.",
+      "server": "Enterprise-grade infrastructure with redundant multi-chain node deployment. 24/7 monitoring, automated failover, geographic distribution across data centers. Professional DevOps with Docker containerization, Prometheus, Grafana, and proactive maintenance for optimal uptime across all blockchain networks.",
+      "company": "Leading multi-chain infrastructure provider focused on Cardano ecosystem expansion. Specialized in emerging protocols including multi-chain bridges (ApexFusion), privacy networks (Midnight), decentralized computing (NuNet), risk management (Xerberus), decentralized cloud storage (Iagon), and fluid tokens (Aquarium). Member of ALLIANCE, CLIMATE NEUTRAL CARDANO, and Cardano Mission Driven pools."
+    }
+  },
+  "my-pool-ids": {
+    "0": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2"
+  },
+  "itn": {
+    "owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
+    "witness": "ed25519_sig1gcu3jecqvedykymnuqhtvznsegmsxve5x9zzxcrlk5m0j5x8mvwz3hu893t8wnq433usurqx02spp0u42xwt030mrp5sykv6ms6hxpc34j32c"
+  },
+  "serial": 2026051501,
+  "pool": {
+    "id": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2",
+    "country": "CAN",
+    "status": "act",
+    "contact": {
+      "primary": "twitter",
+      "twitter": "gvolcy",
+      "telegram": "volcyhttp",
+      "discord": "Greg [VOLCY]ADA Stakepool#1984",
+      "github": "gvolcy"
+    },
+    "media_assets": {
+      "icon_png_64x64": "https://bit.ly/3H6lqGB",
+      "logo_png": "https://bit.ly/47sA85r"
+    },
+    "itn": {
+      "owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
+      "witness": "ed25519_sig1gcu3jecqvedykymnuqhtvznsegmsxve5x9zzxcrlk5m0j5x8mvwz3hu893t8wnq433usurqx02spp0u42xwt030mrp5sykv6ms6hxpc34j32c"
+    }
+  }
+}
