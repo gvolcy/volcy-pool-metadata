@@ -18,7 +18,7 @@
       "vat_id": ""
     },
     "about": {
-      "me": "Gregory - VOLCY Pool operator & ITN Veteran since 2019. Participating in Cardano since the historic Incentivized Testnet (December 2019 - August 2020), demonstrating unwavering commitment to the ecosystem. Professional SPO operating enterprise-grade multi-chain infrastructure across 10+ blockchain networks including Cardano Mainnet/Testnet, ApexFusion, Midnight Validator, Mithril Signer, NuNet Computing, Xerberus Risk Management, Iagon Decentralized Cloud, and Aquarium FluidTokens. Building the Lions & Lionesses community with technical excellence and proven experience since ITN.",
+      "me": "Gregory - VOLCY Pool operator & ITN Veteran since 2019. Enterprise infrastructure across Cardano, ApexFusion & Midnight. Mithril signer. Professional SPO with 300+ blocks minted.",
       "server": "Enterprise-grade infrastructure with redundant multi-chain node deployment. 24/7 monitoring, automated failover, geographic distribution across data centers. Professional DevOps with Docker containerization, Prometheus, Grafana, and proactive maintenance for optimal uptime across all blockchain networks.",
       "company": "Leading multi-chain infrastructure provider focused on Cardano ecosystem expansion. Specialized in emerging protocols including multi-chain bridges (ApexFusion), privacy networks (Midnight), decentralized computing (NuNet), risk management (Xerberus), decentralized cloud storage (Iagon), and fluid tokens (Aquarium). Member of ALLIANCE, CLIMATE NEUTRAL CARDANO, and Cardano Mission Driven pools."
     }
@@ -30,7 +30,7 @@
     "owner": "ed25519_pk1w30svwtq083dxvtk8ypz29jyer6h9jyrsajtwqr62shcaj55x5uqpyn8tk",
     "witness": "ed25519_sig1gcu3jecqvedykymnuqhtvznsegmsxve5x9zzxcrlk5m0j5x8mvwz3hu893t8wnq433usurqx02spp0u42xwt030mrp5sykv6ms6hxpc34j32c"
   },
-  "serial": 2026051501,
+  "serial": 2026051502,
   "pool": {
     "id": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2",
     "country": "CAN",
